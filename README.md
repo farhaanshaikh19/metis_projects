@@ -4,9 +4,13 @@ This Repository contains the five project portfolio completed during the Summer 
 
 ### Projects:
 [1. Strategic Volunteer Placement](#section-a)
+
 [2. Bridging the Achievement Gap](#section-b)
+
 [3. The Happy Citizen](#section-c)
+
 [4. Fake News ClusterFlock](#section-d)
+
 [5. Driven to Death](#section-e)
 
 ---

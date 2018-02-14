@@ -4,6 +4,10 @@ The purpose of this project is to explore the relationship between the Hispanic-
 
 The web-scraping for data collection was done using the python Selenium library and is stored in the notebook titled **[Web_Scraping_Methods_and_Data_collection](Web_Scraping_Methods_and_Data_collection.ipynb)**.
 
+Click on the image below to view an example of the scraping in action on youtube:
+
+[![Scraping the Illinois Report Card website](http://img.youtube.com/vi/E-rnuam6Nuc/0.jpg)](http://www.youtube.com/watch?v=E-rnuam6Nuc "Selenium and Python for Automated Web Scraping")
+
 The most surprising result was that the correlation between the *Hispanic-White Achievement Gap* and the *Percent of hispanic teachers in the district* was not statistically significant <a href="https://www.codecogs.com/eqnedit.php?latex=R^2&space;=&space;0.005" target="_blank"><img src="https://latex.codecogs.com/gif.latex?R^2&space;=&space;0.005" title="R^2 = 0.005" /></a>.
 ![](images/achievement_gap_vs_hisp_teachers.png)
 

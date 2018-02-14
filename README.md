@@ -28,7 +28,7 @@ Note: This project was a one-week hands-on-experience exercise in becoming profi
 
 ---
 
-### <a name="section-b"></a>[2. Bridging the Achievement Gap](02-Bridging_The_Achievement_Gap/)
+### <a name="section-b"></a>[2. Bridging the Achievement Gap](02-Bridging_the_Achievement_Gap/)
 
 #### I'm proud of the webscraping script I created in this notebook. Anyone looking at this repo, should definitely take a look at this project.
 
@@ -54,6 +54,6 @@ Despite the current political climate (as of Feb 2018), I still carry (non data-
 
 ### <a name="section-e"></a>[5. Driven to Death](05-Driven_to_Death/)
 
-A little before I began this project, my brother had gotten into a pretty severe car accident which totaled his car. I wanted to find out the factors related to the severity of collisions to propose data-driven recommendations to state agencies for transportation safety improvements.
+A few days before I began this project, my brother had gotten into a pretty severe car accident which totaled his car. I wanted to find out the factors related to the severity of collisions to propose data-driven recommendations to state agencies for transportation safety improvements.
 
 ---

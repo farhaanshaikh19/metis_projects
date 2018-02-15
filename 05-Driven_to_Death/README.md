@@ -28,14 +28,14 @@ The pink shows the severe/fatal accidents. The orange shows the less severe ones
 
 1. If alcohol is involved, all other things being equal, the model suggests the likelihood of the accident being severe/fatal is **3.38 times higher**. Alcohol-related accidents account for around 1/10 of all collisions.
 
-![Alcohol involved chart](./images/alcohol_involved.png "Alcohol involved")
+![Alcohol involved chart](./images/alcohol_involved_likelihood.png "Alcohol involved")
 
 
 2. California has 34 Urban Counties and 24 Rural Counties. The model suggests that in rural locations, all other factors being equal, a collision is **2.95 times more likely** to result in a severe/fatal accident. Rural Accidents aacount for 1/4 of all collisions.
 
-![Urban and Rural Counties](./images/urban_rural_counties.png "Urban and Rural Counties") ![Rural Location Severity Odds](./images/rural_likelihood.png "Rural Location Odds")
+![Rural Location Severity Odds](./images/rural_likelihood.png "Rural Location Odds") ![Urban and Rural Counties](./images/urban_rural_counties.png "Urban and Rural Counties") 
 
-This may be explained in part due to higher speed limits in rural areas and in some cases, highways that are not divided.
+	This may be explained in part due to higher speed limits in rural areas and in some cases, highways that are not divided.
 
 3. Pedestrians, Motorcyclists, and Bicyclists are in mortal danger when collisions occur.
 
@@ -45,9 +45,10 @@ This may be explained in part due to higher speed limits in rural areas and in s
 
 1. Use "Traffic Calming" measures like those piloted in Louisiana and Washington to enhance Pedestrian and Bicyclist safety.
 These include:
- - Speed bumps
- - Roundabouts
- - Chokepoints
-The added environmental benefit to these recommendations is that motorists will become so fedup with increased congestion that they will be forced to switch to public transportation.
+	 - Speed bumps
+	 - Roundabouts
+	 - Chokepoints
+
+	The added environmental benefit to these recommendations is that motorists will become so fedup with increased congestion that they will be forced to switch to public transportation.
 
 2. Implement physical highway dividers in rural areas to prevent the incidence of head-on collisions

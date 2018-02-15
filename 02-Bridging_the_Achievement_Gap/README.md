@@ -6,10 +6,10 @@ The web-scraping for data collection was done using the python Selenium library 
 
 Click on the image below to view an example of the scraping in action on youtube:
 
-[![Scraping the Illinois Report Card website](http://img.youtube.com/vi/E-rnuam6Nuc/0.jpg)](http://www.youtube.com/watch?v=E-rnuam6Nuc "Selenium and Python for Automated Web Scraping")
+[![Scraping the Illinois Report Card website](./images/webscrape_snip.gif)](http://www.youtube.com/watch?v=E-rnuam6Nuc "Selenium and Python for Automated Web Scraping")
 
 The most surprising result was that the correlation between the *Hispanic-White Achievement Gap* and the *Percent of hispanic teachers in the district* was not statistically significant <a href="https://www.codecogs.com/eqnedit.php?latex=R^2&space;=&space;0.005" target="_blank"><img src="https://latex.codecogs.com/gif.latex?R^2&space;=&space;0.005" title="R^2 = 0.005" /></a>.
-![](images/achievement_gap_vs_hisp_teachers.png)
+![Hispanic White Achievement Gap Scatter](./images/achievement_gap_vs_hisp_teachers.png "Hispanic White Achievement Gap")
 
 It is still a work in progress.
 The code for data analysis can be found in this notebook: **[Achievement_Gap_Data_Analysis](Achievement_Gap_Data_Analysis.ipynb)**
@@ -18,4 +18,4 @@ The code for data analysis can be found in this notebook: **[Achievement_Gap_Dat
 
 02/14/18: Lots of new changes. The webscraping script notebook is a lot more robust, can handle collection interruptions much better, and has scraped some new information.
 A new notebook **[Obtaining_Accurate_Teacher_Ethnicities](Obtaining_Accurate_Teacher_Ethnicities.ipynb)** has been created with the goal of incorporating teacher ethnicity at the school level, rather than at the district level (the Illinois Report Card website only had district-level demographics for teachers).
-The **[Achievement_Gap_Data_analysis](Achievement_Gap_Data_Analysis.ipynb)** still needs to be updated to account for an influx of new data.
+The **[Achievement_Gap_Data_Analysis](Achievement_Gap_Data_Analysis.ipynb)** still needs to be updated to account for an influx of new data.

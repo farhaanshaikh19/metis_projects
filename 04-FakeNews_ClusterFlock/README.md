@@ -20,4 +20,8 @@ For this project I used K-Means, DBSCAN, Agglomerative Clustering algorithms.
 
 ## Results:
 
-**Coming Soon**
+These were the Clusters that were elucidated from the structure.
+
+![Fake News Clusters from Model](./images/fakenews_clusters.PNG "Fake News Clusters from Model")
+
+**More Coming Soon**

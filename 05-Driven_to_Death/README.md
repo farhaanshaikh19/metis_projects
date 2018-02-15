@@ -31,13 +31,13 @@ The pink shows the severe/fatal accidents. The orange shows the less severe ones
 ![Alcohol involved chart](./images/alcohol_involved_likelihood.png "Alcohol involved")
 
 
-2. California has 34 Urban Counties and 24 Rural Counties. The model suggests that in rural locations, all other factors being equal, a collision is **2.95 times more likely** to result in a severe/fatal accident. Rural Accidents aacount for 1/4 of all collisions.
+2. California has 34 Urban Counties and 24 Rural Counties. The model suggests that in rural locations, all other factors being equal, a collision is **2.95 times more likely** to result in a severe/fatal accident. This may be explained in part due to higher speed limits in rural areas and in some cases, highways that are not divided. Rural Accidents aacount for 1/4 of all collisions.
 
 ![Rural Location Severity Odds](./images/rural_likelihood.png "Rural Location Odds") ![Urban and Rural Counties](./images/urban_rural_counties.png "Urban and Rural Counties") 
 
-	This may be explained in part due to higher speed limits in rural areas and in some cases, highways that are not divided.
 
-3. Pedestrians, Motorcyclists, and Bicyclists are in mortal danger when collisions occur.
+
+3. Pedestrians (**16.2X greater odds**), Motorcyclists (**16.1X greater odds**), and Bicyclists (**7.4X greater odds**)are in mortal danger when collisions occur.
 
 ![Pedestrian Chart](./images/pedestrian_involved.png "Pedestrian Involved") ![Motorcycle chart](./images/motorcycle_involved.png) ![Bicycle Chart](./images/bicycle_involved.png "Bicycle Involved")
 
